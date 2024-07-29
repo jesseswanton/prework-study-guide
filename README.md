@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 I created this project to understand the basics of HTML, CSS, Javascript, Github, and Git Bash.
 
 ## Installation
